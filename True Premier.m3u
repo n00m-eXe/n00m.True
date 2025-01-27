@@ -1,18 +1,18 @@
 ###- True Premier -###
 
 
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch1.webp",EPL-1 fw4free
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch1.webp",True Premier 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch2.webp",EPL-2 fw4free
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch2.webp",True Premier 2
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch3.webp",EPL-3 fw4free
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch3.webp",True Premier 3
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch4.webp",EPL-4 fw4free
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch4.webp",True Premier 4
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch5.webp",EPL-5 fw4free
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch5.webp",True Premier 5
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
