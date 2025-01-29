@@ -1,32 +1,32 @@
 ###- True Premier -###
 
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch1.webp",True Premier 1
+#EXTINF:-1 group-title="True Premier" tvg-logo="https://fw4free.com/channel/ch1.webp",True Premier 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch2.webp",True Premier 2
+#EXTINF:-1 group-title="True Premier" tvg-logo="https://fw4free.com/channel/ch2.webp",True Premier 2
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch3.webp",True Premier 3
+#EXTINF:-1 group-title="True Premier" tvg-logo="https://fw4free.com/channel/ch3.webp",True Premier 3
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch4.webp",True Premier 4
+#EXTINF:-1 group-title="True Premier" tvg-logo="https://fw4free.com/channel/ch4.webp",True Premier 4
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://fw4free.com/channel/ch5.webp",True Premier 5
+#EXTINF:-1 group-title="True Premier" tvg-logo="https://fw4free.com/channel/ch5.webp",True Premier 5
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="301" ch-number="331"  tvg-name="True PremierFootball 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 1 
+#EXTINF:-1 tvg-chno="301" ch-number="331"  tvg-name="True PremierFootball 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="True Premier",True PremierFootball 1 
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="302" ch-number="332"  tvg-name="True PremierFootball 2"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 2 
+#EXTINF:-1 tvg-chno="302" ch-number="332"  tvg-name="True PremierFootball 2"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="True Premier",True PremierFootball 2 
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 3
+#EXTINF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="True Premier",True PremierFootball 3
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="304" ch-number="334"  tvg-name="True PremierFootball 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 4 
+#EXTINF:-1 tvg-chno="304" ch-number="334"  tvg-name="True PremierFootball 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="True Premier",True PremierFootball 4 
 https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 5 
+#EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="True Premier",True PremierFootball 5 
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
